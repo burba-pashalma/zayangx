@@ -70,6 +70,4 @@ sdq
 
 
 
-
-
-gduso
+3OFF5
